@@ -161,5 +161,6 @@ venv.bak/
 
 # all csv files 
 /data
+/xdr_data.csv
 
 /scripts
